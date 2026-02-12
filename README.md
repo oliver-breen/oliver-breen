@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oliver-breen
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Network Security
+- 🌱 I’m currently learning Cloud Security
 - 💞️ I’m looking to collaborate anything I can learn.
-- 📫 How to reach me LinkedIn https://www.linkedin.com/in/oliver-breen-450a3058
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/oliver-breen
 
 
 <!---
